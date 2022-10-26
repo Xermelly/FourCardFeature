@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-GJVezYad--)
-- Live Site URL: [Vercel](https://articlepreviewcomponent.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-y7l1nk6ieU)
+- Live Site URL: [Vercel](https://fourcardfeature-nine.vercel.app/)
 
 ## My process
 
