@@ -1,0 +1,46 @@
+:root {
+  --clr-primary-red: hsl(0, 78%, 62%);
+  --clr-primary-cyan: hsl(180, 62%, 55%);
+  --clr-primary-orange: hsl(34, 97%, 64%);
+  --clr-primary-blue: hsl(212, 86%, 64%);
+  --clr-neutral-vdk-blue: hsl(234, 12%, 34%);
+  --clr-neutral-gr-blue: hsl(229, 6%, 66%);
+  --clr-neutral-ltgr-blue: hsl(0, 0%, 98%);
+  --font-family: "Poppins", sans-serif;
+}
+.color-primary-red {
+  color: var(--clr-primary-red);
+}
+.color-primary-cyan {
+  color: var(--clr-primary-cyan);
+}
+.color-primary-orange {
+  color: var(--clr-primary-orange);
+}
+.color-primary-blue {
+  color: var(--clr-primary-blue);
+}
+.color-neutral-vdk-blue {
+  color: var(--clr-neutral-vdk-blue);
+}
+.color-neutral-gr-blue {
+  color: var(--clr-neutral-gr-blue);
+}
+.color-neutral-ltgr-blue {
+  color: var(--clr-neutral-ltgr-blue);
+}
+.font-200 {
+  font-family: var(--font-family);
+  font-weight: 200;
+  line-height: 1.5;
+}
+.font-400 {
+  font-family: var(--font-family);
+  font-weight: 400;
+  line-height: 1.5;
+}
+.font-600 {
+  font-family: var(--font-family);
+  font-weight: 600;
+  line-height: 1.5;
+}
